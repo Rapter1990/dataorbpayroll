@@ -1,6 +1,6 @@
 # JAVA STREAM CODE TASK FOR DATAORB
 
-<img src="screenshots/dataorb.jpg" alt="Main Information" width="700" height="400">
+<img src="screenshots/dataorb.jpg" alt="Main Information" width="600" height="300">
 
 ## Description
 <ul style="list-style-type:disc">
