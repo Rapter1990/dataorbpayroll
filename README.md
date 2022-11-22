@@ -48,7 +48,7 @@
 </table>
 
 
-### Usage of Tecknology
+### Usage of Technology
 * Java 19
 
 ### 🔨 Run the App
