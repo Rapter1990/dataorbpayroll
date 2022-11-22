@@ -1,4 +1,4 @@
-# JAVA STREAM CODE TASK FOR DATAORB
+# Java Stream Code Task FOR DataOrb
 
 <img src="screenshots/dataorb.jpg" alt="Main Information" width="200" height="200">
 
