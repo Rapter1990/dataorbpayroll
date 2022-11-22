@@ -1,13 +1,15 @@
 # JAVA STREAM CODE TASK FOR DATAORB
 
+<img src="screenshots/dataorb.jpg" alt="Main Information" width="700" height="400">
+
 ## Description
 <ul style="list-style-type:disc">
-  <li></li>
-  <li></li>
-  <li>Text 1
+  <li>It is an example of Payroll Processing System</li>
+  <li>It accepts the employees data from the client in either plain text format (.txt) manage the employee life cycle starting from date of onboarding to date of exit</li>
+  <li>How does the example look like
       <ul>
-        <li>Text 1.1</li>
-        <li>Text 1.2</li>
+        <li>Reading values from txt file and store all them into collection named Map</li>
+        <li>Get the result with respect to the different kinds of operations like grouping by one or multi fields, mapping object to dto(data transfer object), sorting by one field and other processes</li>
       </ul>
   </li>
 </ul>
@@ -19,8 +21,28 @@
     <th>Description</th>
   </tr>
   <tr>
-      <td>Method Title</td>
-      <td>Method Description</td>
+      <td>getTotalNumberOfEmployeesInOrganization</td>
+      <td>Show the total number of employees in the organization</td>
+  </tr>
+  <tr>
+      <td>getMonthWiseFollowingDetails</td>
+      <td>Show the total number of employees who joined the organization and exited from it/td>
+  </tr>
+  <tr>
+      <td>getMonthlySalaryReport</td>
+      <td>Show the salary report accoring to month containing Month, total Salary and lastly total Employees</td>
+  </tr>
+  <tr>
+      <td>getEmployeeWiseFinancialReport</td>
+      <td>Show the employee financial report containing employee id, employee name, employee surname and lastly total amount paid</td>
+  </tr>
+  <tr>
+      <td>getMonthlyAmountReleasedReport</td>
+      <td>Show monthly amount relased report containing month, total amount and lastly total employees</td>
+  </tr>
+  <tr>
+      <td>getYearlyFinancialReport</td>
+      <td>Show yearly financial report containing event, employee id, event date and lastly event value</td>
   </tr>
 </table>
 
