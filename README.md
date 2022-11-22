@@ -15,7 +15,7 @@
   </li>
 </ul>
 
-### Infromation of Methods
+### Description of the Methods
 <table style="width:100%">
   <tr>
     <th>Method</th>
