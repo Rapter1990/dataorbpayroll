@@ -8,8 +8,9 @@
   <li>It accepts the employees data from the client in either plain text format (.txt) manage the employee life cycle starting from date of onboarding to date of exit</li>
   <li>How does the example look like
       <ul>
+        <li>All code written is based on Java</li>
         <li>Reading values from txt file and store all them into collection named Map</li>
-        <li>Get the result with respect to the different kinds of operations like grouping by one or multi fields, mapping object to dto(data transfer object), sorting by one field and other processes</li>
+        <li>Get the result with respect to the different kinds of operations like grouping by one or multi fields, mapping object to dto(data transfer object), sorting by one field and other processes by the usage of java streams</li>
       </ul>
   </li>
 </ul>
