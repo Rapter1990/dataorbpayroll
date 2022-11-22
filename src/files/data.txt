@@ -1,0 +1,23 @@
+1, emp101, Bill, Gates, Software Engineer, ONBOARD, 1-1-2022, 10-10-2022, “Bill Gates is going to join DataOrb on 1st January as a SE.”
+2, emp102, Steve, Jobs, Architect, ONBOARD, 1-2-2022, 10-10-2022, “Steve Jobs joined DataOrb on 1st February as an Architect.”
+3, emp103, Martin, Fowler, Software Engineer, ONBOARD, 1-3-2022, 10-10-2022, “Martin has joined DataOrb as a SE.”
+4, emp101, SALARY, 3000, 10-1-2022, “January Salary of Bill.”
+5, emp101, BONUS, 1000, 15-1-2022, “Performance bonus of year 2022”
+6, emp101, EXIT, 16-1-2022, 16-1-2022, “Leaving for further study”
+7, emp101, REIMBURSEMENT, 100, 22-1-2022, “Traveling expenses”
+8, emp102, SALARY, 3000, 10-2-2022, “February Salary of Steve.”
+9, emp101, SALARY, 3000, 10-2-2022, “February Salary of Bill.”
+10, emp101, EXIT, 16-2-2022, 16-2-2022, “Leaving for further study”
+11, emp102, BONUS, 1000, 17-2-2022, “Performance bonus of year 2022”
+12, emp102, REIMBURSEMENT, 100, 25-2-2022, “Traveling expenses”
+13, emp101, SALARY, 3000, 10-3-2022, “March Salary of Bill.”
+14, emp102, SALARY, 3000, 10-3-2022, “March Salary of Steve.”
+15, emp103, SALARY, 3000, 10-3-2022, “March Salary of Martin.”
+16, emp103, EXIT, 16-3-2022, 16-3-2022, “Leaving for further study”
+17, emp102, REIMBURSEMENT, 100, 20-3-2022, “Traveling expenses”
+18, emp102, BONUS, 1000, 21-3-2022, “Performance bonus of year 2022”
+19, emp101, BONUS, 1000, 21-3-2022, “Performance bonus of year 2022”
+17, emp101, EXIT, 22-3-2022, 22-3-2022, “Leaving for further study”
+18, emp103, REIMBURSEMENT, 100, 24-3-2022, “Traveling expenses”
+19, emp101, REIMBURSEMENT, 100, 27-3-2022, “Traveling expenses”
+20, emp102, EXIT, 28-3-2022, 28-3-2022, “Leaving for further study”
